@@ -3,4 +3,4 @@
 
 I made this because I was bored, it's exactly what it sounds like.
 
-Run the setup file to set up the leaderboard and run /bump-leaderboard.py for the scoreboard.
+Run the [setup](leaderboardsetup.py) file to set up the leaderboard and run the [leaderboard](bump-leaderboard.py) for the bot.
